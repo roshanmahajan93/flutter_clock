@@ -1,6 +1,8 @@
 # Flutter Clock
 
-Example [Analog Clock](analog_clock)
+Light Mode
+<img src='analog_light.png' width='350'>
 
-<img src='analog_clock/analog.gif' width='350'>
+Dark Mode
+<img src='analog_dark.png' width='350'>
 
