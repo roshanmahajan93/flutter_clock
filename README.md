@@ -1,4 +1,4 @@
-# Analog Clock
+# Flutter Clock
 
 Example [Analog Clock](analog_clock)
 
